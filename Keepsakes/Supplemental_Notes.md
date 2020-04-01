@@ -3,7 +3,8 @@
 ## Databases
 
     COVID-19 Maps:
-John Hopkins:<href=<http://www.cidrap.umn.edu/covid-19/maps-visuals>>
+
+John Hopkins:<http://www.cidrap.umn.edu/covid-19/maps-visuals>
 
 ## Information & Resources
 
