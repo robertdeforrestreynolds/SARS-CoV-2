@@ -3,7 +3,7 @@
 ## Databases
 
     COVID-19 Maps:
-    <p>John Hopkins:<a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">
+<p>John Hopkins:<a href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6">
 
 ## Information & Resources
 
