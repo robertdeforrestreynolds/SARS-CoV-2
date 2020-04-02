@@ -6,7 +6,7 @@
 
 John Hopkins:<http://www.cidrap.umn.edu/covid-19/maps-visuals>
 
-HealthMap:<healthmap.org/covid-19/>
+HealthMap:<https://healthmap.org/covid-19/>
 
 University of Washington: Site is not safe to visit currently (may update later)
 
@@ -22,7 +22,7 @@ Kasier Family Foundation:<https://www.kff.org/global-health-policy/fact-sheet/co
 
 Worldometer:<https://www.worldometers.info/coronavirus/>
 
-South China Morning Post:<multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher>
+South China Morning Post:<https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?src=article-launcher>
 
 Esri's StoryMap Team:<https://storymaps.arcgis.com/stories/4fdc0d03d3a34aa485de1fb0d2650ee0>
 
